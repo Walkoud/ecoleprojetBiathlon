@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "dependencies": {
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^9.0.0",
+    "mqtt-js-client": "^0.0.5",
+    "mysql": "^2.18.1"
+  }
+}

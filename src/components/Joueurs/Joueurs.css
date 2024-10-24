@@ -1,0 +1,46 @@
+table, td, th {
+    border: 2px solid;
+    border-color: black;
+    color: black;
+    background-color: rgb(183, 247, 255);
+  }
+
+  td, th {
+    padding: 6px;
+  }
+
+  
+  
+  table {
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+
+    border-collapse: collapse;
+  }
+
+
+  input {
+    font-size: 2em
+  }
+
+
+
+  .insert {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+
+
+  .joueurs {
+    height: 100vh;
+  }
+
+  .joueurs select {
+    font-size: 23px;
+  }
+

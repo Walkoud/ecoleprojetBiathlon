@@ -1,0 +1,19 @@
+{
+    "port": "3001",
+    "host": "localhost",
+    "proxyUrl": "http://localhost:3000",
+
+
+
+    "username":"admin",
+    "password": "admin/1234",
+
+    "session": {
+        "secret": "youshallnotpass",
+        "cookie": {
+            "maxAge": 86400000
+        },
+        "resave": true,
+        "saveUninitialized": true
+    }
+}
